@@ -19,9 +19,9 @@ Welcome to my personal homepage repository! This project serves as my online pre
    ```
 2. Navigate to the project folder:
    ```sh
-   cd your-repo-name
+   cd Homepage
    ```
-3. Open `index.html` in your browser or run a local server:
+3. Open `index.php` in your browser or run a local server:
    ```sh
    php -S localhost:8000
    ```
