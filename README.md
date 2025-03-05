@@ -5,7 +5,7 @@ Welcome to my personal homepage repository! This project serves as my online pre
 ## Features
 - About me section
 - Contact form or links to my social media
-- Blog or personal updates (if applicable)
+- Blog or personal updates
 
 ## Technologies Used
 - HTML, CSS, JavaScript
@@ -30,7 +30,7 @@ Welcome to my personal homepage repository! This project serves as my online pre
 If you’d like to contribute or suggest improvements, feel free to fork this repository and submit a pull request.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [apache License](LICENSE).
 
 ---
 
