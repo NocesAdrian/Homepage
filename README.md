@@ -15,7 +15,7 @@ Welcome to my personal homepage repository! This project serves as my online pre
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/NocesAdrian/Homepage.git
    ```
 2. Navigate to the project folder:
    ```sh
