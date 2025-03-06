@@ -1,0 +1,9 @@
+.homePageBtn {
+    background-color: none;
+    border: none;
+}
+
+.homePageBtn:hover {
+    color: aqua !important;
+    background-color: transparent;
+}
